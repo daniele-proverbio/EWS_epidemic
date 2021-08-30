@@ -8,7 +8,7 @@ In EWS_epidemic:
   - Analysis_Reff: analyses the rate of approach to the transition
   - EWS_disease_emergence_figures: includes prevalence data and their analysis. Generates figures for Main Text
   - EWS_disease_emergence_figures_SupMat: completes analysis and generates figures for Supplementary Material
-* /data: data for the evaluation of R(t)
+* /data: data for the evaluation of R(t), plus output of ARIMA detrending (files output*.csv)
 * /csv: output of R_t_EWS, input for Analysis_Reff
 * /R_T_plots: plots produced by R_t_EWS
 * /Analysis_Reff_plots: plots produced by Analysis_Reff
