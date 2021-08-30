@@ -1,5 +1,5 @@
 # EWS_epidemic
-Code and data for the analysis of "Performance of early warning signals for disease emergence", Proverbio et al. (2021)
+Code and data for the analysis of "Performance of early warning signals for disease emergence", Proverbio et al. (2021) (https://www.medrxiv.org/content/10.1101/2021.03.30.21254631v1)
 
 ## Navigate files
 In EWS_epidemic:
