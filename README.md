@@ -1,5 +1,5 @@
 # EWS_epidemic
-Code and data for the analysis of "Performance of early warning signals for disease emergence", Proverbio et al. (2021) (https://www.medrxiv.org/content/10.1101/2021.03.30.21254631v1)
+Code and data for the analysis of Proverbio, Daniele, et al. "Performance of early warning signals for disease emergence: a case study on COVID-19 data." medRxiv (2021).
 
 ## Navigate files
 In EWS_epidemic:
@@ -14,3 +14,11 @@ In EWS_epidemic:
 * /Analysis_Reff_plots: plots produced by Analysis_Reff
 * /plots_Main: figures for Main Text, produced by EWS_disease_emergence_figures
 * /plots_SupMat: figures for Main Text, produced by EWS_disease_emergence_figures_SupMat
+
+### Requirements
+The analysis was performed in MATLAB and Python. They require the _Statistics Toolbox_ and the _scipy_ library, respectively.
+
+## Credits
+The code was developed by Daniele Proverbio and Françoise Kemp (ARIMA detrending). 
+
+In case of reuse, please cite the original manuscript: Proverbio, Daniele, et al. "Performance of early warning signals for disease emergence: a case study on COVID-19 data." medRxiv (2021).
