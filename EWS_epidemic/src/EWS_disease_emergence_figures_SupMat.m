@@ -272,3 +272,11 @@ plot(p, y,'LineWidth',2)
 xlabel('Protection rate p','FontSize',13)
 ylabel('Infectious proportion','FontSize',13)
 ylim([-0.00001 max(y)])
+
+
+
+%% Incidence
+% Following the reviewer's suggestion, I also perform the same analysis
+% using incidence data
+
+Incidence()
