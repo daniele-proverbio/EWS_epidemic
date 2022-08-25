@@ -1,5 +1,5 @@
 # EWS_epidemic
-Code and data for the analysis of Proverbio, Daniele, et al. "Performance of early warning signals for disease emergence: a case study on COVID-19 data." medRxiv (2021).
+Code and data for the analysis of Proverbio, Daniele, et al. "Performance of early warning signals for disease re-emergence: A case study on COVID-19 data”. In: PLOS Computational Biology 18.3, e1009958. DOI: 10.1371/journal.pcbi. 1009958 (2022).
 
 ## Navigate files
 In EWS_epidemic:
